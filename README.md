@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Milford</h1>
+<h3 align="center">I'm a software engineering student and junior front-end developer</h3>
+
+- 🌱 I’m currently learning [React](https://pt-br.reactjs.org), [TypeScript](https://www.typescriptlang.org), [Vue](https://vuejs.org), [Nuxt](https://nuxtjs.org)
+
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/bruno-milford-de-oliveira-848958151/), e-mail [bm33518@gmail.com](bm33518@gmail.com)
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="react" width="40" height="40"/>
+</p>
 
 <!--
 **Bruno-Milford/Bruno-Milford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
