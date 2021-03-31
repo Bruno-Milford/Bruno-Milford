@@ -15,6 +15,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bruno-Milford&layout=compact&langs_count=8&theme=tokyonight"/>
+
 <!--
 **Bruno-Milford/Bruno-Milford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
