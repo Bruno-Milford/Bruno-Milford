@@ -15,6 +15,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
+<div>
+  <imgheight="180em"src="https://githubreadmestatseighttheta.vercel.app/apiusername=BrunoMilford&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bruno-Milford&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
 <!--
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bruno-Milford&layout=compact&langs_count=8&theme=tokyonight"/>
 -->
