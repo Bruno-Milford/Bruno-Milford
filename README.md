@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Milford</h1>
 <h3 align="center">I'm a software engineering student and junior front-end developer</h3>
 
-- 🌱 I’m currently learning [React](https://pt-br.reactjs.org), [Next.Js](https://nextjs.org) [TypeScript](https://www.typescriptlang.org), [Vue](https://vuejs.org)
+- 🌱 I’m currently learning [React](https://pt-br.reactjs.org), [Next.Js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [Vue](https://vuejs.org)
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/bruno-milford-de-oliveira-848958151/), e-mail [bm33518@gmail.com](bm33518@gmail.com)
 
