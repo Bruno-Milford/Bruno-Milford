@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Milford</h1>
-<h3 align="center">I'm a software engineering student and junior front-end developer</h3>
+<h3 align="center">I'm a junior front-end developer</h3>
 
 - 🌱 I’m currently learning [React](https://pt-br.reactjs.org), [Next.Js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [Vue](https://vuejs.org)
 
