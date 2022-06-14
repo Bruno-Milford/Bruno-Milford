@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Milford</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, I'm Bruno Milford</h1>
 <h3 align="center">I'm a junior front-end developer</h3>
 
 - 🌱 I’m currently learning [React](https://pt-br.reactjs.org), [Vue](https://vuejs.org), [Nodejs](https://nodejs.org/en/)
