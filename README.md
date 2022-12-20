@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Bruno Milford</h1>
-<h3 align="center">I'm a junior front-end developer</h3>
+<h3 align="center">I'm a junior developer</h3>
 
 - 🌱 I’m currently learning technology Front-end [Angular](https://angular.io/)
 - 🌱 I’m currently learning technology Back-end [.net c#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
