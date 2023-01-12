@@ -16,8 +16,8 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="react" width="40" height="40"/> -->
 </p>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Milford&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+<!-- <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Milford&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/> -->
   <br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bruno-Milford&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
