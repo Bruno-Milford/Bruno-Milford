@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bruno Milford</h1>
 <h3 align="center">I'm a junior developer</h3>
 
-- 🌱 I’m currently learning technology Front-end [Angular](https://angular.io/)
+- 🌱 I’m currently learning technology Front-end [Angular](https://angular.io/), [VueJs](https://vuejs.org)
 - 🌱 I’m currently learning technology Back-end [.net c#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/bruno-milford-de-oliveira-848958151/), e-mail [bm33518@gmail.com](bm33518@gmail.com)
